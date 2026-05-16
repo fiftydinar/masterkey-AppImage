@@ -1,10 +1,10 @@
 <div align="center">
 
-# masterkey-anylinux 🐧
+# masterkey-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/TheRealYasri/masterkey-anylinux/total?logo=github&label=GitHub%20Downloads)](https://github.com/TheRealYasri/masterkey-anylinux/releases/latest)
-[![CI Build Status](https://github.com/TheRealYasri/masterkey-anylinux/actions/workflows/appimage.yml/badge.svg)](https://github.com/TheRealYasri/masterkey-anylinux/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/TheRealYasri/masterkey-anylinux)](https://github.com/TheRealYasri/masterkey-anylinux/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/masterkey-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/masterkey-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/masterkey-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/masterkey-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/masterkey-AppImage)](https://github.com/pkgforge-dev/masterkey-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://gitlab.com/guillermop/master-key/-/raw/master/data/icons/hicolor/scalable/apps/com.gitlab.guillermop.MasterKey.svg?ref_type=heads" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/TheRealYasri/masterkey-anylinux/releases/latest) | [Click here](https://gitlab.com/guillermop/master-key) |
+| [Click here](https://github.com/pkgforge-dev/masterkey-AppImage/releases/latest) | [Click here](https://gitlab.com/guillermop/master-key) |
 
 </div>
 
